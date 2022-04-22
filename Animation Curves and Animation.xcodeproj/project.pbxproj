@@ -11,6 +11,7 @@
 		AD719D68281331750027E6D7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD719D67281331750027E6D7 /* ContentView.swift */; };
 		AD719D6A281331760027E6D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD719D69281331760027E6D7 /* Assets.xcassets */; };
 		AD719D6D281331760027E6D7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD719D6C281331760027E6D7 /* Preview Assets.xcassets */; };
+		AD719D74281333220027E6D7 /* SyncView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD719D73281333220027E6D7 /* SyncView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AD719D67281331750027E6D7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AD719D69281331760027E6D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD719D6C281331760027E6D7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AD719D73281333220027E6D7 /* SyncView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SyncView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				AD719D65281331750027E6D7 /* Animation_Curves_and_AnimationApp.swift */,
 				AD719D67281331750027E6D7 /* ContentView.swift */,
+				AD719D73281333220027E6D7 /* SyncView.swift */,
 				AD719D69281331760027E6D7 /* Assets.xcassets */,
 				AD719D6B281331760027E6D7 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD719D74281333220027E6D7 /* SyncView.swift in Sources */,
 				AD719D68281331750027E6D7 /* ContentView.swift in Sources */,
 				AD719D66281331750027E6D7 /* Animation_Curves_and_AnimationApp.swift in Sources */,
 			);
